@@ -11,3 +11,5 @@ Instrucciones de uso:
 1. Siga todas las indicaciones del programa, en caso contrario el resultado seraa erroneo o un error.
 2. El programa cuenta ocn un menu y con una breve descripcion del funcionamiento, eliga el que desee. El menu seguira en ejecucion hasta que se ingrese un numero menor a 0
 
+Si desea ver la explicacion de cada uno de los programas busque en la seccion 4 del libro Quantum Computing for Computer Scientists
+
